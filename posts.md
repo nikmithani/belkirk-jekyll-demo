@@ -1,5 +1,5 @@
 ---
-title: Register
+title: Register Your Mortgage
 layout: posts
 sub_heading: ''
 description: Articles by Belkirk College
