@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College, LoanCare University
+heading: LoanCare
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Mortgage Servicing
+sub_heading: Welcome to your friendly mortgage servicer
 textline: |
   Belkirk College of Engineering
 
